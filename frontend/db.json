@@ -1,0 +1,75 @@
+{
+  "info":[
+    {
+      "name":"Mannat House",
+      "location":"Pune",
+      "price":"30",
+      "type":"Residential",
+      "description":"loreaskdd dsljsadjasf",
+      "images":"https://images.pexels.com/photos/1396122/pexels-photo-1396122.jpeg?cs=srgb&dl=pexels-binyamin-mellish-1396122.jpg&fm=jpg"
+    },
+    {
+      "location":"Pune",
+      "price":"30",
+      "type":"Residential",
+      "description":"loreaskdd dsljsadjasf",
+      "images":"https://images.pexels.com/photos/1396122/pexels-photo-1396122.jpeg?cs=srgb&dl=pexels-binyamin-mellish-1396122.jpg&fm=jpg"
+    },
+    {
+      "location":"Pune",
+      "price":"30",
+      "type":"Residential",
+      "description":"loreaskdd dsljsadjasf",
+      "images":"https://images.pexels.com/photos/1396122/pexels-photo-1396122.jpeg?cs=srgb&dl=pexels-binyamin-mellish-1396122.jpg&fm=jpg"
+    },
+    {
+      "location":"Pune",
+      "price":"30",
+      "type":"Residential",
+      "description":"loreaskdd dsljsadjasf",
+      "images":"https://images.pexels.com/photos/1396122/pexels-photo-1396122.jpeg?cs=srgb&dl=pexels-binyamin-mellish-1396122.jpg&fm=jpg"
+    },
+    {
+      "location":"Pune",
+      "price":"30",
+      "type":"Residential",
+      "description":"loreaskdd dsljsadjasf",
+      "images":"https://images.pexels.com/photos/1396122/pexels-photo-1396122.jpeg?cs=srgb&dl=pexels-binyamin-mellish-1396122.jpg&fm=jpg"
+    },
+    {
+      "location":"Pune",
+      "price":"30",
+      "type":"Residential",
+      "description":"loreaskdd dsljsadjasf",
+      "images":"https://images.pexels.com/photos/1396122/pexels-photo-1396122.jpeg?cs=srgb&dl=pexels-binyamin-mellish-1396122.jpg&fm=jpg"
+    },
+    {
+      "location":"Pune",
+      "price":"30",
+      "type":"Residential",
+      "description":"loreaskdd dsljsadjasf",
+      "images":"https://images.pexels.com/photos/1396122/pexels-photo-1396122.jpeg?cs=srgb&dl=pexels-binyamin-mellish-1396122.jpg&fm=jpg"
+    },
+    {
+      "location":"Pune",
+      "price":"30",
+      "type":"Residential",
+      "description":"loreaskdd dsljsadjasf",
+      "images":"https://images.pexels.com/photos/1396122/pexels-photo-1396122.jpeg?cs=srgb&dl=pexels-binyamin-mellish-1396122.jpg&fm=jpg"
+    },
+    {
+      "location":"Pune",
+      "price":"30",
+      "type":"Residential",
+      "description":"loreaskdd dsljsadjasf",
+      "images":"https://images.pexels.com/photos/1396122/pexels-photo-1396122.jpeg?cs=srgb&dl=pexels-binyamin-mellish-1396122.jpg&fm=jpg"
+    },
+    {
+      "location":"Pune",
+      "price":"30",
+      "type":"Residential",
+      "description":"loreaskdd dsljsadjasf",
+      "images":"https://images.pexels.com/photos/1396122/pexels-photo-1396122.jpeg?cs=srgb&dl=pexels-binyamin-mellish-1396122.jpg&fm=jpg"
+    }
+  ]
+}
