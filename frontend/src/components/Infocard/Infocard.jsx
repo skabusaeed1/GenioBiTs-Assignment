@@ -23,12 +23,12 @@ function Infocard({ src }) {
       <Heading >Name: {src.name}</Heading>
       <p style={{fontSize:"20px"}}>Type: {src.type}</p>
       <p style={{fontSize:"20px"}}> Location: {src.location}</p>
-     <b>Price: {src.price}L</b>
+     <b>Price: {src.price}</b>
     </Stack>
   </CardBody>
   <Divider />
   <CardFooter>
-    <ButtonGroup spacing='2'>
+    <ButtonGroup>
       <Link to={'/details'}>
       <Button className='btn'  onClick={(e)=>{dispatch(getDetailsData(src))}}>
         Show More

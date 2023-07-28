@@ -1,75 +1,84 @@
 {
   "info":[
     {
-      "name":"Mannat House",
+      "name":"Bell Cottage",
       "location":"Pune",
-      "price":"30",
+      "price":"80L",
       "type":"Residential",
-      "description":"loreaskdd dsljsadjasf",
+      "description":"Located in the heart of the city, this sleek and stylish house epitomizes contemporary living. Its clean lines and minimalist design create an airy and spacious atmosphere. The open-plan layout seamlessly connects the living, dining, and kitchen areas, making it ideal for entertaining guests. Floor-to-ceiling windows frame stunning cityscape views, while the rooftop terrace offers an outdoor oasis with a barbecue area and a lounge. High-end finishes, smart home technology, and a private garage further enhance the convenience and luxury of this urban haven.",
       "images":"https://images.pexels.com/photos/1396122/pexels-photo-1396122.jpeg?cs=srgb&dl=pexels-binyamin-mellish-1396122.jpg&fm=jpg"
     },
     {
-      "location":"Pune",
-      "price":"30",
+      "name":"Birchwood House",
+      "location":"Mumbai",
+      "price":"1Cr",
       "type":"Residential",
-      "description":"loreaskdd dsljsadjasf",
-      "images":"https://images.pexels.com/photos/1396122/pexels-photo-1396122.jpeg?cs=srgb&dl=pexels-binyamin-mellish-1396122.jpg&fm=jpg"
+      "description":"Located in the heart of the city, this sleek and stylish house epitomizes contemporary living. Its clean lines and minimalist design create an airy and spacious atmosphere. The open-plan layout seamlessly connects the living, dining, and kitchen areas, making it ideal for entertaining guests. Floor-to-ceiling windows frame stunning cityscape views, while the rooftop terrace offers an outdoor oasis with a barbecue area and a lounge. High-end finishes, smart home technology, and a private garage further enhance the convenience and luxury of this urban haven.",
+      "images":"https://wallpaperaccess.com/full/3060214.jpg"
     },
     {
+      "name":"IT Office",
       "location":"Pune",
-      "price":"30",
-      "type":"Residential",
-      "description":"loreaskdd dsljsadjasf",
-      "images":"https://images.pexels.com/photos/1396122/pexels-photo-1396122.jpeg?cs=srgb&dl=pexels-binyamin-mellish-1396122.jpg&fm=jpg"
+      "price":"90L",
+      "type":"Commercial",
+      "description":"Step into a sophisticated office environment exuding timeless elegance and professionalism. Classic wooden finishes, refined artwork, and plush leather seating create a sense of prestige and luxury. The executive boardroom is equipped with the latest presentation technology, making it ideal for high-level meetings and client interactions. Private offices provide quiet spaces for focused work, while collaborative areas encourage teamwork. With meticulous attention to detail and an aura of refinement, this office space is designed to impress clients and employees alike.",
+      "images":"https://media.istockphoto.com/id/1342421368/photo/modern-bright-office-space.webp?b=1&s=170667a&w=0&k=20&c=sm30pJiI6wRu9e1crTD7JE0OnT56LQ1T6Ufe_U6g-ok="
     },
     {
-      "location":"Pune",
-      "price":"30",
+      "name":"Corner House",
+      "location":"Aurangabad",
+      "price":"60L",
       "type":"Residential",
-      "description":"loreaskdd dsljsadjasf",
-      "images":"https://images.pexels.com/photos/1396122/pexels-photo-1396122.jpeg?cs=srgb&dl=pexels-binyamin-mellish-1396122.jpg&fm=jpg"
+      "description":"Located in the heart of the city, this sleek and stylish house epitomizes contemporary living. Its clean lines and minimalist design create an airy and spacious atmosphere. The open-plan layout seamlessly connects the living, dining, and kitchen areas, making it ideal for entertaining guests. Floor-to-ceiling windows frame stunning cityscape views, while the rooftop terrace offers an outdoor oasis with a barbecue area and a lounge. High-end finishes, smart home technology, and a private garage further enhance the convenience and luxury of this urban haven.",
+      "images":"https://www.loans.com.au/dA/9de8aa8d51/what-factors-affect-property-value.png"
     },
     {
+      "name":"Firs Point",
       "location":"Pune",
-      "price":"30",
+      "price":"70L",
       "type":"Residential",
-      "description":"loreaskdd dsljsadjasf",
-      "images":"https://images.pexels.com/photos/1396122/pexels-photo-1396122.jpeg?cs=srgb&dl=pexels-binyamin-mellish-1396122.jpg&fm=jpg"
+      "description":"Located in the heart of the city, this sleek and stylish house epitomizes contemporary living. Its clean lines and minimalist design create an airy and spacious atmosphere. The open-plan layout seamlessly connects the living, dining, and kitchen areas, making it ideal for entertaining guests. Floor-to-ceiling windows frame stunning cityscape views, while the rooftop terrace offers an outdoor oasis with a barbecue area and a lounge. High-end finishes, smart home technology, and a private garage further enhance the convenience and luxury of this urban haven.",
+      "images":"https://c4.wallpaperflare.com/wallpaper/971/1012/9/architecture-house-modern-wallpaper-preview.jpg"
     },
     {
-      "location":"Pune",
-      "price":"30",
+      "name":"Ivy House",
+      "location":"Aurangabad",
+      "price":"40L",
       "type":"Residential",
-      "description":"loreaskdd dsljsadjasf",
-      "images":"https://images.pexels.com/photos/1396122/pexels-photo-1396122.jpeg?cs=srgb&dl=pexels-binyamin-mellish-1396122.jpg&fm=jpg"
+      "description":"Located in the heart of the city, this sleek and stylish house epitomizes contemporary living. Its clean lines and minimalist design create an airy and spacious atmosphere. The open-plan layout seamlessly connects the living, dining, and kitchen areas, making it ideal for entertaining guests. Floor-to-ceiling windows frame stunning cityscape views, while the rooftop terrace offers an outdoor oasis with a barbecue area and a lounge. High-end finishes, smart home technology, and a private garage further enhance the convenience and luxury of this urban haven.",
+      "images":"https://images.unsplash.com/photo-1600585154340-be6161a56a0c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8N3x8fGVufDB8fHx8fA%3D%3D&w=1000&q=80"
     },
     {
-      "location":"Pune",
-      "price":"30",
+      "name":"Lilac Cottage",
+      "location":"Nashik",
+      "price":"60L",
       "type":"Residential",
-      "description":"loreaskdd dsljsadjasf",
-      "images":"https://images.pexels.com/photos/1396122/pexels-photo-1396122.jpeg?cs=srgb&dl=pexels-binyamin-mellish-1396122.jpg&fm=jpg"
+      "description":"Located in the heart of the city, this sleek and stylish house epitomizes contemporary living. Its clean lines and minimalist design create an airy and spacious atmosphere. The open-plan layout seamlessly connects the living, dining, and kitchen areas, making it ideal for entertaining guests. Floor-to-ceiling windows frame stunning cityscape views, while the rooftop terrace offers an outdoor oasis with a barbecue area and a lounge. High-end finishes, smart home technology, and a private garage further enhance the convenience and luxury of this urban haven.",
+      "images":"https://w0.peakpx.com/wallpaper/441/409/HD-wallpaper-3d-house-design-modern-exterior-design-modern-house.jpg"
     },
     {
-      "location":"Pune",
-      "price":"30",
-      "type":"Residential",
-      "description":"loreaskdd dsljsadjasf",
-      "images":"https://images.pexels.com/photos/1396122/pexels-photo-1396122.jpeg?cs=srgb&dl=pexels-binyamin-mellish-1396122.jpg&fm=jpg"
+      "name":"Meeting Office",
+      "location":"Mumbai",
+      "price":"2Cr",
+      "type":"Commercial",
+      "description":"Step into a sophisticated office environment exuding timeless elegance and professionalism. Classic wooden finishes, refined artwork, and plush leather seating create a sense of prestige and luxury. The executive boardroom is equipped with the latest presentation technology, making it ideal for high-level meetings and client interactions. Private offices provide quiet spaces for focused work, while collaborative areas encourage teamwork. With meticulous attention to detail and an aura of refinement, this office space is designed to impress clients and employees alike.",
+      "images":"https://media.istockphoto.com/id/1460755337/photo/white-color-theme-modern-style-office-with-exposed-concrete-floor-and-a-lot-of-plant-3d.webp?b=1&s=170667a&w=0&k=20&c=vjO4QhU7YP-UEdHsrECZH01Nvj0T5aqnoWSh02XdLeo="
     },
     {
-      "location":"Pune",
-      "price":"30",
+      "name":"Meadow View",
+      "location":"Nagpure",
+      "price":"80L",
       "type":"Residential",
-      "description":"loreaskdd dsljsadjasf",
-      "images":"https://images.pexels.com/photos/1396122/pexels-photo-1396122.jpeg?cs=srgb&dl=pexels-binyamin-mellish-1396122.jpg&fm=jpg"
+      "description":"Located in the heart of the city, this sleek and stylish house epitomizes contemporary living. Its clean lines and minimalist design create an airy and spacious atmosphere. The open-plan layout seamlessly connects the living, dining, and kitchen areas, making it ideal for entertaining guests. Floor-to-ceiling windows frame stunning cityscape views, while the rooftop terrace offers an outdoor oasis with a barbecue area and a lounge. High-end finishes, smart home technology, and a private garage further enhance the convenience and luxury of this urban haven.",
+      "images":"https://images.unsplash.com/photo-1570129477492-45c003edd2be?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8Mnx8fGVufDB8fHx8fA%3D%3D&w=1000&q=80"
     },
     {
-      "location":"Pune",
-      "price":"30",
+      "name":"Orchard House",
+      "location":"Nagpure",
+      "price":"70L",
       "type":"Residential",
-      "description":"loreaskdd dsljsadjasf",
-      "images":"https://images.pexels.com/photos/1396122/pexels-photo-1396122.jpeg?cs=srgb&dl=pexels-binyamin-mellish-1396122.jpg&fm=jpg"
+      "description":"Located in the heart of the city, this sleek and stylish house epitomizes contemporary living. Its clean lines and minimalist design create an airy and spacious atmosphere. The open-plan layout seamlessly connects the living, dining, and kitchen areas, making it ideal for entertaining guests. Floor-to-ceiling windows frame stunning cityscape views, while the rooftop terrace offers an outdoor oasis with a barbecue area and a lounge. High-end finishes, smart home technology, and a private garage further enhance the convenience and luxury of this urban haven.",
+      "images":"https://www.rocketmortgage.com/resources-cmsassets/RocketMortgage.com/Article_Images/Large_Images/Stock-Modern-House-In-Twilight-AdobeStock-368976934-copy.jpg"
     }
   ]
 }

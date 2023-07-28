@@ -7,22 +7,31 @@ import Navbar from '../Navbar/Navbar'
 
 const Dashboard = () => {
     const [state,setState]=useState([])
-    
+    const [search,setSearch]=useState("")
+    const [data,setData]=useState([])
+
     useEffect(() => {
-        axios
-          .get(`http://localhost:8080/info`)
-          .then((res) => {
-            setState(res.data);
-            console.log(res.data);
-          });
-      }, []);
+      const debounce = setTimeout(() => {
+        if (search) {
+          axios(
+            `http://localhost:8080/info?q=${search}`
+          ).then((res) => setState(res.data));
+        }else{
+          axios(
+            `http://localhost:8080/info`
+          ).then((res) => setState(res.data));
+        }
+      }, 1000);
+      return () => clearTimeout(debounce);
+      }, [search]);
+
+      
     
   return (
     <div>
        <Navbar/>
       <div className='search-box'>
-      <input placeholder='Search here'/>
-      <button>Search</button>
+      <input placeholder='Search here' onChange={(e) => setSearch(e.target.value)}/>
       </div>
       <div className='dashboard'>
       {
